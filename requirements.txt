@@ -1,0 +1,10 @@
+streamlit
+python == 3.9
+pandas
+numpy
+scikit-learn
+os
+pickle
+
+# local packages
+-e .
